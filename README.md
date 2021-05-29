@@ -13,4 +13,5 @@ Ceci dit, ne vous mettez pas trop la pression ! Le pire qui pourrait vous arrive
 ________________________________________________________________
 
 Projet réalisé en python3. 
+ 
 Commande pour run le projet : python3 AffichageLCD.py
